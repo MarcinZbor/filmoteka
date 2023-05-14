@@ -29,9 +29,11 @@ Project created by::smirk:
 </ul>
 <h3> :sunny: Tasks:</h3>
 <ul> 
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>:zap: Develop pagination</li>
+  <li>:zap: Develop Api</li>
+  <li>:zap: Develop website: day/night</li>
+  <li>:zap: Develop website for searching popular movies</li>
+  <li>:zap: Develop movie card with details information about movie</li>
+  <li>:zap: Develop possibility to adding favourite movie to localstorage</li>
+  
 </ul>
