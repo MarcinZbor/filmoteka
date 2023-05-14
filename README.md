@@ -4,6 +4,6 @@ After several months of intense JavaScript study, we were finally able to put ou
 
 Project created by::smirk:
 <ul> 
-  <li> <a href="https://github.com/oxica"> <strong>Team leader</strong>Sslkmfsd</li>
+  <li> <a href="https://github.com/oxica"> <strong>:smiley:Team leader: </strong>Sslkmfsd</li>
 
 </ul>
