@@ -8,7 +8,6 @@ Project created by::smirk:
     <li> <a href="https://github.com/PawelBogusz1"> <strong>:man:Scrum Master: </strong>Paweł Bogusz</li>
       <li> <a href="https://github.com/MarcinZbor"> <strong>:man:Front-End-Developer: </strong>Marcin Zboroń</li>
         <li> <a href=""> <strong>:man:Front-End-Developer: </strong>Developer2</li>
-        <li> <a href=""> <strong>:man:Front-End-Developer: </strong>Developer2</li>
         <li> <a href=""> <strong>:man:Front-End-Developer: </strong>Developer3</li>
         <li> <a href=""> <strong>:man:Front-End-Developer: </strong>Developer4</li>
         <li> <a href=""> <strong>:man:Front-End-Developer: </strong>Developer5</li>
@@ -16,5 +15,6 @@ Project created by::smirk:
         <li> <a href=""> <strong>:man:Front-End-Developer: </strong>Developer7</li>
         <li> <a href=""> <strong>:man:Front-End-Developer: </strong>Developer8</li>
         <li> <a href=""> <strong>:man:Front-End-Developer: </strong>Developer9</li>
+       
 
 </ul>
