@@ -24,7 +24,7 @@ Project created by::smirk:
   <li>:mortar_board: We solidified and reinforced our knowledge of HTML/CSS.</li>
   <li>:mortar_board: We solidified and reinforced our knowledge of JS</li>
   <li>:mortar_board: We solidified and reinforced our knowledge of Git/GitHub</li>
-  <li></li>
-  <li></li>
+  <li> :hammer:Work with Parcel</li>
+  <li>:hammer: Work with scrum and trello</li>
 </ul>
 
