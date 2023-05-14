@@ -27,4 +27,11 @@ Project created by::smirk:
   <li> :hammer:Work with Parcel</li>
   <li>:hammer: Work with scrum and trello</li>
 </ul>
-
+<h3> :sunny: Tasks:</h3>
+<ul> 
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
