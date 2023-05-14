@@ -15,5 +15,6 @@ Project created by::smirk:
         <li> <a href=""> <strong>:man:Front-End-Developer: </strong>Developer7</li>
         <li> <a href=""> <strong>:man:Front-End-Developer: </strong>Developer8</li>
         <li> <a href=""> <strong>:man:Front-End-Developer: </strong>Developer9</li>
-       
 </ul>
+<h3>We got technical task from GoIT</h3>
+<p>We need to prepare web site for: mobile,tablet and desktop</p>
